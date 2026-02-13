@@ -1,5 +1,9 @@
+
 # Lyrics-Search-Engine
 The objective of the project is to design and implement software capable of storing and searching for songs using an inverted index. The application was developed within a Docker container, ensuring a consistent and isolated environment for development and deployment across different systems. This approach facilitates cross-platform compatibility and streamlines the management of dependencies, making the software more robust and portable.
+
+<img width="863" height="626" alt="{E16F3AC2-B5E6-42FB-80C9-5ED2595BE0B0}" src="https://github.com/user-attachments/assets/a6681090-c991-4693-947c-a417668848e6" />
+
 
 # Installation guide
 
